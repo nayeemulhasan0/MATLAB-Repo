@@ -1,8 +1,8 @@
 # Personal MATLAB Repository
 
+
 Welcome to my personal MATLAB repository! This collection contains MATLAB scripts and functions developed for various assignments and projects. These codes span a wide range of topics including numerical methods, fluid mechanics, optimization, and more, all reflecting my undergrad journey in applied mathematics.
 
----
 
 ## Repository Structure
 
@@ -42,7 +42,7 @@ Welcome to my personal MATLAB repository! This collection contains MATLAB script
   - Call and put option payoffs and profits.
   - Analysis of butterfly spreads and other financial instruments.
 
----
+
 
 ## How to Use
 1. **Clone the Repository:**
@@ -57,17 +57,17 @@ Welcome to my personal MATLAB repository! This collection contains MATLAB script
 3. **Run Scripts:**
    Navigate to the desired assignment folder and execute the scripts.
 
----
+
 
 ## Feedback
 Feedbacks are welcome! If you identify any issues or have ideas for improvement, feel free to open an issue or submit a pull request.
 
----
+
 
 ## License
 !This repository is licensed under the MIT License.
 
----
+
 
 ## Disclaimer
 These scripts are primarily educational and were developed as part of coursework. While care has been taken to ensure accuracy, please use them at your own risk.
