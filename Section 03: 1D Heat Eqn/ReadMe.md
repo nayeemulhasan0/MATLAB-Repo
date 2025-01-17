@@ -1,7 +1,7 @@
 
 # Heat Equation Analysis
 
-![image](https://github.com/user-attachments/assets/b5f3dde7-aa3d-4243-a033-b3be90a74a0f)
+![173714736415477700](https://github.com/user-attachments/assets/b8818614-a7b3-4dfd-ac3c-a175d0d6d47e)
 
 ### Initialization
 ```matlab
