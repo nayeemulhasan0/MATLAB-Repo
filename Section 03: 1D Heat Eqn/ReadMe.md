@@ -1,5 +1,5 @@
 
-# Heat Equation Analysis
+# 1D Heat Equation Analysis
 
 ![173714736415477700](https://github.com/user-attachments/assets/b8818614-a7b3-4dfd-ac3c-a175d0d6d47e)
 
