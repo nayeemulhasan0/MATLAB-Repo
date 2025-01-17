@@ -47,7 +47,7 @@ Welcome to my personal MATLAB repository! This collection contains MATLAB script
 ## How to Use
 1. **Clone the Repository:**
    ```bash
-   git clone <https://github.com/nayeemulhasan0/MATLAB>
+   git clone <https://github.com/nayeemulhasan0/MATLAB-Repo>
    ```
 2. **Set Up MATLAB Path:**
    Add the folder to your MATLAB path using:
