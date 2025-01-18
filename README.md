@@ -36,7 +36,7 @@ Welcome to my personal MATLAB repository! This collection contains MATLAB script
   - Ballistic motion with air resistance.
   - Analysis of forces and coefficients of friction.
 
-### **Section-06: Financial Mathematics **
+### **Section-06: Financial Mathematics**
 - **Topics:** Financial mathematics and options pricing.
 - **Highlights:**
   - Call and put option payoffs and profits.
