@@ -65,7 +65,7 @@ Feedbacks are welcome! If you identify any issues or have ideas for improvement,
 
 
 ## License
-!This repository is licensed under the MIT License.
+No, This repository isn't licensed under the MIT License.
 
 
 
