@@ -1,1 +1,1 @@
-# Heat Eqn
+# 1D Heat Eqn
