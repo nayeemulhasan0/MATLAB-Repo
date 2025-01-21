@@ -52,3 +52,4 @@ title("heat distr with first 5 terms of the FS")
 plot(tspan(2:length(tspan)),Arr(2:length(tspan),floor(size(Arr,2)/2)))
 xlabel("time"); ylabel("temp")
 title("heat distr of midpoint")
+
