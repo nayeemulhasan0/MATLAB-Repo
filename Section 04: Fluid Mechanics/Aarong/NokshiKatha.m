@@ -6,5 +6,4 @@ F = @(z)  z^(-1);
 psi = imag(F(x + 1i*y));
 
 contour(x, y, psi, 50);
-title('streamlines');
 axis equal;
